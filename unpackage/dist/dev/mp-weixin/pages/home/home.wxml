@@ -1,0 +1,1 @@
+<view><button data-event-opts="{{[['tap',[['goTo',[1]]]]]}}" bindtap="__e">跳转</button><button data-event-opts="{{[['tap',[['goTo',[2]]]]]}}" bindtap="__e">跳转</button></view>
